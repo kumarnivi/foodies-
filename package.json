@@ -1,0 +1,11 @@
+{
+  "name": "magic-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+   "build":"npm run build"
+  },
+  "author": "",
+  "license": "ISC"
+}
